@@ -1,2 +1,2 @@
-# goit-markup-hm-05
-Home work HTML+CSS (overlay window)
+# goit-markup-hm-06
+Home work HTML+CSS (adoptive design)
